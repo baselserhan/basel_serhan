@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#wrap{
+
+margin: 0 auto;
+text-align: center;
+}
+
+#nheader{
+	background: url("images/inner-banner-img-4-1140x386.jpg")purple;
+	padding: 25px;
+	height: 250px;
+}
+
+h1{
+	color: white;
+}
+
+img{
+	border: dotted 4px white;
+}
+
+#npara{
+	background: url("images/inner-banner-img-1-1140x386.jpg") fixed blue; 
+	height: 350px;
+	padding: 30px;
+}
+
+
+.text_para{
+	color: white;
+	font-size: 30px;
+	font-family: verdana;
+}
+
+.redColor{
+	color: yellow;
+}
+
+#footer{
+
+background-color: purple;
+padding: 50px;
+}
