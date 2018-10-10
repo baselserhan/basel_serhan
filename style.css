@@ -10,7 +10,7 @@ text-align: center;
 }
 
 #nheader{
-	background: url("images/inner-banner-img-4-1140x386.jpg")purple;
+	background: url("inner-banner-img-4-1140x386.jpg")purple;
 	padding: 25px;
 	height: 250px;
 }
@@ -24,7 +24,7 @@ img{
 }
 
 #npara{
-	background: url("images/inner-banner-img-1-1140x386.jpg") fixed blue; 
+	background: url("inner-banner-img-1-1140x386.jpg") fixed blue; 
 	height: 350px;
 	padding: 30px;
 }
