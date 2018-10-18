@@ -24,7 +24,7 @@ img{
 }
 
 #npara{
-	background: url("inner-banner-img-1-1140x386.jpg") fixed blue; 
+	background: url("inner-banner-img-1-1140x386.jpg") blue; 
 	height: 350px;
 	padding: 30px;
 }
