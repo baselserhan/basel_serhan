@@ -10,7 +10,7 @@ text-align: center;
 }
 
 #nheader{
-	background: url("inner-banner-img-4-1140x386.jpg") fixed purple;
+	background: url("inner-banner-img-4-1140x386.jpg") purple;
 	padding: 25px;
 	height: 250px;
 }
@@ -42,7 +42,7 @@ img{
 }
 
 #footer{
-background: url("inner-banner-img-6-1-1140x386.jpg") fixed;
+background: url("inner-banner-img-6-1-1140x386.jpg");
 background-color: purple;
 padding: 50px;
 height: 100px;
