@@ -44,6 +44,6 @@ img{
 #footer{
 background: url("inner-banner-img-6-1-1140x386.jpg");
 background-color: purple;
-padding-left: 50px;
+padding: 50px;
 height: 100px;
 }
