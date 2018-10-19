@@ -25,8 +25,8 @@ img{
 
 #npara{
 	background: url("inner-banner-img-1-1140x386.jpg") fixed blue; 
-	height: 250px;
-	padding: 25px;
+	height: 350px;
+	padding: 30px;
 }
 
 
@@ -44,6 +44,6 @@ img{
 #footer{
 background: url("inner-banner-img-6-1-1140x386.jpg");
 background-color: purple;
-padding: 25px;
-height: 250px;
+padding: 50px;
+height: 100px;
 }
